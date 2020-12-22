@@ -1,4 +1,4 @@
-# Flamegraphs
+# Flame graphs
 
 
 ## Flame Graphs

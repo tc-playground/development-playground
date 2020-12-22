@@ -1,6 +1,8 @@
 # Python Profiler
 
-Playing with the small Python `deterministic` and `statistical` profilers from Hackernoon.
+## Introduction
+
+* An example of creating small Python `deterministic` and `statistical` profilers.
 
 ---
 
